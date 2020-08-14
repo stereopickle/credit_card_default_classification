@@ -3,3 +3,8 @@ DATA/holdout_data.csv
 DATA/training_data.csv
 .ipynb_checkpoints/010.Process-checkpoint.ipynb
 *.pkl
+.ipynb_checkpoints/holdout_prediction-checkpoint.ipynb
+__pycache__/feature_transformation.cpython-37.pyc
+simple_decision_tree.png
+bakeoff_prediction_EB.csv
+bakeoff_prediction_EB.csv
