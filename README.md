@@ -1,5 +1,5 @@
 # Credit Card Default Binary Classification
-This repo contains a process to predict whether a person will default on their credit card or not.  
+This repo contains a process to predict whether clients will default on their credit card or not.  
 
 ## Repo Structure
 **010.Process.ipynb**: a Jupyter notebook containing the entire process
