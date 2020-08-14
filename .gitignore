@@ -2,3 +2,4 @@
 DATA/holdout_data.csv
 DATA/training_data.csv
 .ipynb_checkpoints/010.Process-checkpoint.ipynb
+*.pkl
