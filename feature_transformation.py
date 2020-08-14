@@ -5,8 +5,12 @@ Created on Fri Aug 14 08:55:24 2020
 
 @author: stereopickles
 """
-from sklearn.preprocessing import StandardScaler
 
+from sklearn.preprocessing import StandardScaler
+import pandas as pd
+import numpy as np
+import math 
+import pickle
 
 def feat_transform(df):
     df.columns = ['LIMIT_BAL', 'SEX', 'EDUCATION', 'MARRIAGE', 'AGE', 'PAY_0', 'PAY_2',
